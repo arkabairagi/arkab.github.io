@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Arka Bairagi"
   pronouns         : # example: "he/him"  
-  bio              : "PhD Research Scholar at National Institute of Technology, Rourkela"
-  location         : "Earth"
-  employer         : "National Institute of Technology, Rourkela"
-  uri              : # URL
+  bio              : "PhD Research Scholar, National Institute of Technology, Rourkela"
+  location         : "Hooghly, West Bengal, India"
+#  employer         : "National Institute of Technology, Rourkela"
+#  uri              : # URL
   email            : "arka.b2408@gmail.com" 
 
   # Academic websites
